@@ -1,0 +1,39 @@
+# AutoAnalyst Minimal Analysis Report
+==================================================
+
+Generated: 2025-08-05 21:03:17
+Dataset: sample_sales_data.csv
+
+## Dataset Overview
+Shape: 30 rows × 10 columns
+
+## Columns Analysis
+Total columns: 10
+Numeric columns: 5
+Categorical columns: 5
+
+### Numeric Columns:
+- Sales
+- Quantity
+- Price
+- Customer_Age
+- Satisfaction_Score
+
+### Categorical Columns:
+- Date
+- Product
+- Category
+- Region
+- Customer_Gender
+
+## Generated Visualizations
+Check the 'visuals' folder for:
+- Histograms for numeric variables
+- Bar charts for categorical variables
+- Correlation matrix (if applicable)
+
+## Next Steps
+1. Review the generated visualizations
+2. Look for patterns and outliers
+3. Consider deeper analysis based on findings
+4. Prepare data for modeling if needed

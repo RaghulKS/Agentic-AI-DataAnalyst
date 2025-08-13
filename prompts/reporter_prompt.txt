@@ -1,0 +1,46 @@
+You are a business intelligence analyst creating a professional report for executives and stakeholders.
+
+Based on the following analysis results, create a comprehensive business report:
+
+Dataset Overview:
+{dataset_summary}
+
+Analysis Results:
+{analysis_results}
+
+Visualizations Created:
+{visualizations}
+
+Key Findings:
+{key_findings}
+
+Your report should include:
+
+## Executive Summary
+- Brief overview of the analysis
+- Key findings in bullet points
+- Main recommendations
+
+## Data Overview
+- Dataset characteristics
+- Data quality assessment
+- Any limitations or caveats
+
+## Analysis Findings
+- Present findings in a clear, non-technical manner
+- Use business language, not technical jargon
+- Include references to visualizations
+- Highlight patterns and trends
+
+## Insights and Recommendations
+- Actionable business insights
+- Strategic recommendations
+- Potential next steps
+- Areas for further investigation
+
+## Conclusion
+- Summarize main points
+- Reinforce key recommendations
+- Call to action
+
+Write in a professional tone suitable for business executives. Focus on clarity, insights, and actionable recommendations rather than technical details.

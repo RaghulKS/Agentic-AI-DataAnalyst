@@ -1,0 +1,35 @@
+You are a senior data scientist tasked with creating a comprehensive analysis plan for a dataset.
+
+Dataset Information:
+{dataset_info}
+
+Column Names and Types:
+{column_names}
+
+Your task is to generate a detailed analysis plan that covers:
+
+## 1. DATA CLEANING AND PREPROCESSING
+- Identify necessary data cleaning steps
+- Handle missing values appropriately
+- Deal with outliers and anomalies
+- Transform data types if needed
+- Create derived features if beneficial
+
+## 2. EXPLORATORY DATA ANALYSIS (EDA)
+- Suggest key visualizations to understand data distribution
+- Identify relationships between variables
+- Propose statistical summaries
+- Recommend correlation analyses
+
+## 3. STATISTICAL ANALYSIS AND MODELING
+- Suggest appropriate statistical tests
+- Recommend suitable machine learning models based on the data
+- Define evaluation metrics
+- Propose feature engineering if applicable
+
+## 4. BUSINESS INSIGHTS
+- Identify key questions the data can answer
+- Suggest areas for deeper investigation
+- Recommend actionable insights to look for
+
+Please structure your response with clear sections and specific, actionable steps. Focus on practical analyses that will provide business value.
